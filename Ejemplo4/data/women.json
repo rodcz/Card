@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Cleopatra",
+    "lastName": "VII",
+    "nationality": "Egyptian",
+    "bio": "Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt. She was a powerful and influential queen known for her intelligence, political prowess, and romantic liaisons with Julius Caesar and Mark Antony.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/452px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Joan",
+    "lastName": "of Arc",
+    "nationality": "French",
+    "bio": "Joan of Arc, also known as the Maid of Orléans, was a French heroine and military leader who played a crucial role during the Lancastrian phase of the Hundred Years' War. She claimed divine guidance...",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joan_of_arc_miniature_graded.jpg/360px-Joan_of_arc_miniature_graded.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Marie",
+    "lastName": "Curie",
+    "nationality": "Polish",
+    "bio": "Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/440px-Marie_Curie_c._1920s.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Amelia",
+    "lastName": "Earhart",
+    "nationality": "American",
+    "bio": "Amelia Mary Earhart was an American aviation pioneer and author.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg/440px-Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Frida",
+    "lastName": "Kahlo",
+    "nationality": "Mexican",
+    "bio": "Magdalena Carmen Frida Kahlo y Calderón was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/440px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Ada",
+    "lastName": "Lovelace",
+    "nationality": "British",
+    "bio": "Augusta Ada King, Countess of Lovelace was an English mathematician and writer.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/440px-Ada_Lovelace_portrait.jpg"
+  }
+]
